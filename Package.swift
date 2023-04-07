@@ -24,7 +24,7 @@ let package = Package(
     .package(
       name: "swift-argument-parser",
       url: "https://github.com/apple/swift-argument-parser.git",
-      .upToNextMajor(from: "0.4.3")
+      .upToNextMajor(from: "1.0.3")
     ),
     .package(
       name: "ShellOut",
